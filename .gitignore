@@ -1,0 +1,11 @@
+# Ignorar archivo .env con claves API
+.env
+
+# Ignorar dependencias de Node.js (si las tienes)
+node_modules/
+
+# Ignorar configuración de Visual Studio Code
+.vscode/
+
+# Ignorar archivos de log
+*.log
